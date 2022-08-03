@@ -1,0 +1,8 @@
+[2022-07-1117:17:38] [ ERROR] [GlobalExceptions:15] No se encuentra odontologo: 
+[2022-07-1117:28:02] [ ERROR] [GlobalExceptions:15] No existe un paciente con el ID: 503
+[2022-07-1117:28:19] [ ERROR] [GlobalExceptions:15] No existe un paciente con el ID: 502
+[2022-07-1117:28:34] [ ERROR] [GlobalExceptions:15] No existe un odontologo con el ID: 503
+[2022-07-1117:29:15] [ ERROR] [GlobalExceptions:15] No existe un paciente con el ID: 3
+[2022-07-1117:35:18] [ ERROR] [GlobalExceptions:15] No existe un paciente con el ID: 3
+[2022-07-1117:40:07] [ ERROR] [GlobalExceptions:15] No existe un paciente con el ID: 3
+[2022-07-1117:53:47] [ ERROR] [GlobalExceptions:15] No existe un turno para el ID: 10
